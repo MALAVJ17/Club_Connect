@@ -1,4 +1,4 @@
-*Club Connect*
+**Club Connect**
 
 The Club Connect website project aims to revolutionize the club experience by addressing
 critical challenges faced by student clubs on campus. By leveraging advanced web
